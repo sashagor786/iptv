@@ -1,0 +1,14 @@
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Zee Bangla" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRV-t52GuplsDefN7ZDA0aUruBleu8Do9vcyw&usqp=CAU",Zee Bangla
+http://173.199.120.51/hls/zeebanglahd.m3u8
+
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Sony Aath" tvg-logo="http://ihub.live/uploads/tv_image/sm/sony-aath.jpg",Sony Aath
+http://173.199.120.51/hls/sony8.m3u8
+
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Star Jalsha SD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT6koU7rQYpwVnNEekLKjHBVrfNeJLYVb6kYg&usqp=CAU" ,Star Jalsha SD 
+http://173.199.120.51/hls/chsj.m3u8
+
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Star Jalsha HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRz9f12yDPDFDCeWiHLpML9d4rsTCCbB-e_1w&usqp=CAU" ,Star Jalsha HD
+http://173.199.120.51/hls/chsj.m3u8
+
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Colors Bangla" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/tv/150/150/bnw/Colors_Bangla_HD_TV_white.png" ,Colors Bangla 
+http://173.199.120.51/hls/colorsbangla.m3u8
