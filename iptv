@@ -1,3 +1,5 @@
+#EXTM3U
+Shagor IPTV
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Zee Bangla" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRV-t52GuplsDefN7ZDA0aUruBleu8Do9vcyw&usqp=CAU",Zee Bangla
 http://173.199.120.51/hls/zeebanglahd.m3u8
 
