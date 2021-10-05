@@ -21,3 +21,6 @@ http://173.199.120.51/hls/peacetv.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/93/Nick-logo.png" group-title="Kids",Nick
 #http://103.159.4.38:5868/KIDS-1/tracks-v1a1/mono.m3u8
 https://feed.play.mv/live/10005200/s5f1zEMJC1/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/rm7OMLk.png" group-title="RoMs-BDIX (সবার চলবে ন)", Nick
+http://tv2.ebox.live:8080/live/nick.m3u8
