@@ -18,5 +18,6 @@ http://173.199.120.51/hls/colorsbangla.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Peace tv Bangla" tvg-logo="https://w7.pngwing.com/pngs/693/239/png-transparent-peace-tv-bangla-youtube-television-channel-youtube-television-text-logo.png" ,Peace TV 
 http://173.199.120.51/hls/peacetv.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/chT8xP5.png" group-title="Cartoon", Nick Junior Hindi
-http://103.153.39.34:8000/play/a04r/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/93/Nick-logo.png" group-title="Kids",Nick
+#http://103.159.4.38:5868/KIDS-1/tracks-v1a1/mono.m3u8
+https://feed.play.mv/live/10005200/s5f1zEMJC1/master.m3u8
