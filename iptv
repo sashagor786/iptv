@@ -22,5 +22,5 @@ http://173.199.120.51/hls/peacetv.m3u8
 #http://103.159.4.38:5868/KIDS-1/tracks-v1a1/mono.m3u8
 https://feed.play.mv/live/10005200/s5f1zEMJC1/master.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/rm7OMLk.png" , Nick
-http://tv2.ebox.live:8080/live/nick.m3u8
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Sangeet Bangla" ,Sangeet Bangla
+https://d2q8p4pe5spbak.cloudfront.net/bpk-tv/sangeetbangla/sangeetbangla.isml/sangeetbangla-audio_208482_und=208000-video=877600.m3u8
