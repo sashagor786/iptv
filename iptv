@@ -15,5 +15,5 @@ http://173.199.120.51/hls/chsj.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Colors Bangla" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/tv/150/150/bnw/Colors_Bangla_HD_TV_white.png" ,Colors Bangla 
 http://173.199.120.51/hls/colorsbangla.m3u8
 
-#EXTINF:0 tvg-logo="https://i.imgur.com/hAmFkQB.jpg" group-title="Indian Bangla",Jalsha Movies HD
-http://rubeliptv.zapto.org:25461/ips7/44332277/327
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-logo="https://peacetv.tv/wp-content/uploads/2021/08/Group-489.png", Peace Tv - Bangla  
+http://173.199.116.220/hls/peacetv.m3u8
