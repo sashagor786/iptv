@@ -20,3 +20,6 @@ http://173.199.120.51/hls/peacetv.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/rm7OMLk.png" , Nick
 http://jupiter.bdcabletv.com/ENC-15/video.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/chT8xP5.png" group-title="Cartoon", Nick Junior Hindi
+http://103.153.39.34:8000/play/a04r/index.m3u8
