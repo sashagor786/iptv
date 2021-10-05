@@ -14,5 +14,6 @@ http://173.199.120.51/hls/chsj.m3u8
 
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Colors Bangla" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/tv/150/150/bnw/Colors_Bangla_HD_TV_white.png" ,Colors Bangla 
 http://173.199.120.51/hls/colorsbangla.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-logo="https://peacetv.tv/wp-content/uploads/2021/08/Group-489.png", Peace Tv - Bangla  
-http://173.199.116.220/hls/peacetv.m3u8
+
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Peace tv Bangla" tvg-logo="https://w7.pngwing.com/pngs/693/239/png-transparent-peace-tv-bangla-youtube-television-channel-youtube-television-text-logo.png" ,Peace TV 
+http://173.199.120.51/hls/peacetv.m3u8
