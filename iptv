@@ -1,10 +1,4 @@
 #EXTM3U
 Shagor IPTV
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Live Sports"
-http://100.100.100.100:9190/CH1-SP1/index.m3u8
-
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="T Sports"
-http://100.100.100.100:9190/CH2-SP2/index.m3u8
-
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="G TV"
-http://100.100.100.100:9190/CH2A-SP2/index.m3u8
+https://vkvsd32.mycdn.me/hls/3003878017601.m3u8/sig/-ufu22V9XFc/srcIp/122.163.251.208/expires/1668781478883/clientType/13/srcAg/CHROME_ANDROID/fromCache/1/mid/4184204389185/id/3003878017601/video.m3u8
