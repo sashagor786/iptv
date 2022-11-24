@@ -1,0 +1,25 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="" tvg-name="G TV 1" tvg-logo="http://dugdugilive.com/img/channels/gtv.png",G TV 1
+http://100.100.100.100:9190/CH2A-SP2/index.m3u8
+
+#EXTINF:-2 tvg-id="" tvg-name="G TV 2" tvg-logo="http://dugdugilive.com/img/channels/gtv.png",G TV 2
+http://cdn01.palki.tv/live/GaziTV-M/index.fmp4.m3u8
+
+#EXTINF:-3 tvg-id="" tvg-name="T Sports 1" tvg-logo="http://durbinlive.com/uploads/tv_image/sm/tsports.jpg",T Sports 1
+http://100.100.100.100:9190/CH2-SP2/index.m3u8
+
+#EXTINF:-4 tvg-id="" tvg-name="T Sports 2" tvg-logo="http://durbinlive.com/uploads/tv_image/sm/tsports.jpg",T Sports 2
+http://103.78.255.178:8080/starselect1/tracks-v1a1/mono.m3u8
+
+#EXTINF:-5 tvg-id="" tvg-name="T Sports 3" tvg-logo="http://durbinlive.com/uploads/tv_image/sm/tsports.jpg",T Sports 3
+http://tv2.efiberbd.net:8080/live/mkaua/stream/3.m3u8
+
+#EXTINF:-6 tvg-id="" tvg-name="Fox Sports 1" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQCpNdG35HRjHyV4QKQUeqLmXkEQNBSwrYp3uzqGXAeCvC5zIZvux6oMyA&s=10",Fox Sports 1
+http://45.232.210.1:8062/play/a08s/index.m3u8
+
+#EXTINF:-7 tvg-id="" tvg-name="Fox Sports 2" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQCpNdG35HRjHyV4QKQUeqLmXkEQNBSwrYp3uzqGXAeCvC5zIZvux6oMyA&s=10",Fox Sports 2
+http://45.232.210.1:8062/play/a08b/index.m3u8
+
+#EXTINF:-8 tvg-id="" tvg-name="Bein Sports 1" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTI1MhKuYKXkQngS_4bc5om-M-77hb2yT_SaheBZbn0j74DHFz4a5jAZynU&s=10",Bein Sports 1
+http://87.120.36.56:28888/udp/239.17.1.26:1234
+
