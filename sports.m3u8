@@ -1,4 +1,8 @@
 #EXTM3U
+#EXTINF:-0 tvg-id="" tvg-name="A Sports" tvg-logo="https://i.ibb.co/c13WZ1p/1669300587133.jpg", A TV
+http://100.100.100.100:9190/CH1-SP1/index.m3u8
+
+
 #EXTINF:-1 tvg-id="" tvg-name="G TV 1" tvg-logo="http://dugdugilive.com/img/channels/gtv.png",G TV 1
 http://100.100.100.100:9190/CH2A-SP2/index.m3u8
 
