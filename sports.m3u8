@@ -7,7 +7,7 @@ http://100.100.100.100:9190/CH1-SP1/index.m3u8
 http://100.100.100.100:9190/CH2A-SP2/index.m3u8
 
 #EXTINF:-2 tvg-id="" tvg-name="G TV 2" tvg-logo="http://dugdugilive.com/img/channels/gtv.png",G TV 2
-http://cdn01.palki.tv/live/GaziTV-M/index.fmp4.m3u8
+http://tv2.efiberbd.net:8080/live/mkaua/stream/4.m3u8
 
 #EXTINF:-3 tvg-id="" tvg-name="Sports 18" tvg-logo="https://upload.wikimedia.org/wikipedia/en/0/07/Sports18_official_logo.png",Sports 18
 http://172.16.29.28:8080/hls/live1-fnet.m3u8
