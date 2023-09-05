@@ -17,10 +17,3 @@ http://100.100.100.100:8088/1105/index.m3u8?realtime=true
 
 #EXTINF:-6 tvg-id="" tvg-name="PTV-SPORTS" tvg-logo="https://play-lh.googleusercontent.com/mULinfm5Lt-5qvxG1Dn5hZrJo8xBPLUWSUqyuaN_W1peboc-rsp0Q0to6o_nmN_CWzs",PTV-SPORTS
 http://100.100.100.100:8088/1111/index.m3u8?realtime=true
-
-#EXTINF:-7 tvg-id="" tvg-name="Fox Sports 2" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQCpNdG35HRjHyV4QKQUeqLmXkEQNBSwrYp3uzqGXAeCvC5zIZvux6oMyA&s=10",Fox Sports 2
-http://45.232.210.1:8062/play/a08b/index.m3u8
-
-#EXTINF:-8 tvg-id="" tvg-name="Bein Sports 1" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTI1MhKuYKXkQngS_4bc5om-M-77hb2yT_SaheBZbn0j74DHFz4a5jAZynU&s=10",Bein Sports 1
-http://87.120.36.56:28888/udp/239.17.1.26:1234
-
